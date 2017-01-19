@@ -1,2 +1,2 @@
-My website html code. Nothing interesting to see here.
+My website html code.
 URL: zachscollins.com
