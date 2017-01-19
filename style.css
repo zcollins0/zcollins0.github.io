@@ -34,6 +34,7 @@ h3 {
     text-justify: inter-word;
     margin: auto;
     text-align-last: justify;
+    -moz-text-align-last: justify;
 }
 
 h4 {
