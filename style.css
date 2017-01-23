@@ -4,12 +4,13 @@
     padding: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
+/*NOTE: em based on 25px default size*/
 body {
     -webkit-text-size-adjust: none;
     background-color: #000000;
     color: #ffffff;
     text-align: center;
+    font-size: 150%
 }
 
 h1,
@@ -23,18 +24,18 @@ h4 {
 }
 
 h1 {
-    font-size: 40px;
-    letter-spacing: 2px;
-    padding-bottom: 0px;
+    font-size: 1.6em;
+    letter-spacing: 0.08em;
+    padding-bottom: 0;
 }
 
 h2 {
-    font-size: 37px;
-    padding-bottom: 8px;
+    font-size: 1.48em;
+    padding-bottom: 0.32em;
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 1em;
     text-align: justify;
     margin: auto;
     text-align-last: center;
@@ -44,12 +45,12 @@ h3 {
 }
 
 h4 {
-    padding-top: 10px;
-    font-size: 20px;
+    padding-top: 0.4em;
+    font-size: 0.8em;
 }
 
 h4 a {
-    font-size: 18px;
+    font-size: 0.76em;
     color: #ffffff;
     text-decoration: none;
 }
