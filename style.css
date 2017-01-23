@@ -13,8 +13,8 @@ body {
     font-size: 150%
 }
 
-@media only screen and (max-device-width: 480px) {
-    font-size: 200%;
+@media screen and (max-device-width: 1200px) {
+    body {font-size: 200%};
 }
 
 h1,
