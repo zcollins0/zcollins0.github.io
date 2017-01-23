@@ -35,12 +35,12 @@ h2 {
 
 h3 {
     font-size: 25px;
-    width: 100%;
-    max-width: 900px;
     text-align: justify;
     margin: auto;
-    text-align-last: justify;
-    -moz-text-align-last: justify;
+    text-align-last: center;
+    -moz-text-align-last: center;
+    width: 95%;
+    max-width: 900px;
 }
 
 h4 {
