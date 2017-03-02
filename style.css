@@ -19,7 +19,8 @@ body {
 
 h1,
 h2 {
-    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
 }
 
 h3,
@@ -29,17 +30,17 @@ h4 {
 
 h1 {
     font-size: 1.6em;
-    letter-spacing: 0.08em;
-    padding-bottom: 0;
+    letter-spacing: 0.02em;
+    padding-bottom: 0.2em;
 }
 
 h2 {
-    font-size: 1.48em;
+    font-size: 1.2em;
     padding-bottom: 0.32em;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 0.95em;
     text-align: justify;
     margin: auto;
     text-align-last: center;
