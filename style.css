@@ -50,14 +50,20 @@ h3 {
 }
 
 h4 {
-    padding-top: 0.4em;
+    padding-top: 0.5em;
     font-size: 0.8em;
 }
 
-h4 a {
+h5 a {
     font-size: 0.76em;
     color: #555555;
     text-decoration: none;
+}
+
+h5 {
+    padding-top: 0.2em;
+    font-size: 0.76em;
+    font-weight: 100;
 }
 
 .outer {
@@ -75,5 +81,19 @@ h4 a {
 .inner {
     margin-left: auto;
     margin-right: auto;
+}
+
+.inner table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.7em;
+    border-top: 1px solid #555555;
+}
+
+.inner table td {
+    padding-left: 1.8em;
+    padding-right: 1.8em;
+    vertical-align: top;
+    width: 50%;
 }
 
