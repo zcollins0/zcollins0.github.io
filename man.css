@@ -27,3 +27,19 @@ a {
     color: #555555;
 }
 
+div.hovered-image {
+    display: inline-block;
+}
+
+div.hovered-image:hover img {
+    margin-left: 2em;
+    margin-top: 1em;
+    display: inline-block;
+}
+
+div.hovered-image img{
+    display: none;
+    max-width: 90%;
+    max-height: 45rem;
+    text-align: center;
+}
