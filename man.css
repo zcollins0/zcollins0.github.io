@@ -40,6 +40,6 @@ div.hovered-image:hover img {
 div.hovered-image img{
     display: none;
     max-width: 90%;
-    max-height: 45rem;
+    max-height: 30rem;
     text-align: center;
 }
