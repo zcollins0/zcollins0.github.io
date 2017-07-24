@@ -21,3 +21,9 @@ div#outer {
 @media screen and (max-device-width: 1200px) {
     body {font-size: 200%};
 }
+
+a {
+    text-decoration: none;
+    color: #555555;
+}
+
