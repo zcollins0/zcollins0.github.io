@@ -1,2 +1,2 @@
 My website html code.
-URL: zachscollins.com
+URL: https://zachcollins.dev
